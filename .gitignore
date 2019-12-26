@@ -1,0 +1,4 @@
+dist/css/responsive.min.css
+dist/css/index.min.css
+.DS_Store
+sass/
